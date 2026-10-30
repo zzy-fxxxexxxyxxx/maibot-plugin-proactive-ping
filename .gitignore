@@ -4,3 +4,4 @@ config.toml
 state.json
 *.bak-*
 .venv/
+dist/
